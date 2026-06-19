@@ -24,7 +24,7 @@ Chi tiết định hướng được nêu trong file: [`khung_phat_trien_du_an.m
 ---
 
 ## 3. Các ý tưởng dự án của nhóm
-Nhóm đang cân nhắc 4 ý tưởng chính. Từng ý tưởng đã được phân tích theo đúng cấu trúc của Khung phát triển dự án:
+Nhóm đang cân nhắc 5 ý tưởng chính. Từng ý tưởng đã được phân tích theo đúng cấu trúc của Khung phát triển dự án:
 
 ### 💡 [Ý tưởng 1] Dự án Tưới tiêu thông minh (Trung)
 👉 **Chi tiết:** [`trung.md`](./trung.md)
